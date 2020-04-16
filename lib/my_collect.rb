@@ -16,6 +16,5 @@ def my_collection(array)
     i += 1
   end
   collection
->>>>>>> a189e371988eb4c4ecc9a80a540b24cb5cecc5ae
 end
 
