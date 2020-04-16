@@ -6,7 +6,7 @@ def my_collect(collection)
   new_collection << yield(collection[i])
   i += 1
   end
-  new_collection.join(" ").split
+ new_collection
 end
 
 
