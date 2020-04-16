@@ -7,7 +7,9 @@ def my_collect(collection)
   i -= 1
   end
   new_collection.join(" ").split
-=======
+
+
+
 def my_collection(array)
   i = 0
   collection = []
